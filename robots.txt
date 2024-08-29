@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mttarmstrong.github.io/sitemap.xml
+Sitemap: https://MttArmstrong.github.io/sitemap.xml
